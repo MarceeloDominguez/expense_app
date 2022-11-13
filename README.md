@@ -1,5 +1,7 @@
 # Expense Control
 
+Application where you can control your income and expenses
+
 <table>
 <tr>
   <td><img src="https://user-images.githubusercontent.com/70117105/201533710-658c653a-25ad-4622-bd54-7da576876a0a.png" width="300"></td>
@@ -35,4 +37,6 @@ Start the server
 ```
 
 ## 🛠 Skills
-React Native
+**Client:** React Native
+
+**Server:** Node, Express, MongoDB
